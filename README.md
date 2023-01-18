@@ -1,6 +1,10 @@
 # Check-the-Running-Processes-in-Linux 
 
-`ps`
+`ps`  
+`pstree`  
+`top`  
+`htop`  
+
 
 
 
